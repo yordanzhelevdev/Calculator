@@ -98,9 +98,27 @@ h1{
 	color:white;
 }
 
+footer {
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	position: relative;
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: 30px;
+	width: 100%;
+	height: 40px;
+	color:white;
+}
+
+footer a{
+	text-decoration: none;
+	color: #922031;
+}
+
 
 @media screen and (max-width: 340px) {
 	body{
 		margin:10px 0 0 0;
 	}
 }
+
