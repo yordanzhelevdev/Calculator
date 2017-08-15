@@ -22,8 +22,8 @@ body{
 
 .calculator-body{	
 	margin:0 auto;
-	width:265px;
-	height:300px;
+	width:250px;
+    height: 290px;
 	background-color:#232323;
 	display:grid;
 	grid-template-columns: repeat(4,1fr);
